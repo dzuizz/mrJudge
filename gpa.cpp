@@ -11,7 +11,8 @@ int main(){
     else{
         while(true){
             if(a<n){
-                cout << fixed << setprecision(1) << pt << endl;
+                //cout << fixed << setprecision(1) << pt << endl;
+                printf("%.1f", pt);
                 break;
             }
             n += 5;
