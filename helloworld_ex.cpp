@@ -1,6 +1,2 @@
-#include <iostream>
-using namespace std;
-
-int main(){
-    cout << "Hello World";
-}
+#include<ios>
+main(){puts("Hello World");}
